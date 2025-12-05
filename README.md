@@ -1,1 +1,2 @@
-# Shamanthula-Bhavana05-Gen-AI-Internship-Python-Code-Files
+This repository contains all the work completed during my Generative AI Internship.
+At present, it includes Python programming tasks, and more GenAI-related modules will be added as I progress.
